@@ -1,0 +1,4 @@
+b:\Users\grigorev_is\Desktop\VS Code\№7 ПА\obj\Debug\net8.0\№7 ПА.GeneratedMSBuildEditorConfig.editorconfig
+b:\Users\grigorev_is\Desktop\VS Code\№7 ПА\obj\Debug\net8.0\№7 ПА.AssemblyInfoInputs.cache
+b:\Users\grigorev_is\Desktop\VS Code\№7 ПА\obj\Debug\net8.0\№7 ПА.AssemblyInfo.cs
+b:\Users\grigorev_is\Desktop\VS Code\№7 ПА\obj\Debug\net8.0\№7 ПА.csproj.CoreCompileInputs.cache
